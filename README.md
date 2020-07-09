@@ -30,3 +30,7 @@ npm run dev
 # build for production with minification
 npm run build
 ```
+#图片
+![图片](https://github.com/wangrongguo/element-ui-vue/blob/master/src/assets/001.png)
+![图片](https://github.com/wangrongguo/element-ui-vue/blob/master/src/assets/002.png)
+![图片](https://github.com/wangrongguo/element-ui-vue/blob/master/src/assets/003.png)
